@@ -588,105 +588,65 @@
       "delay": 300
     }
   ],
-  "skills":[
+  "skills": [
     {
-      "name": "JavaScript",
-      "level": 80,
-      "category": "frontend"
-    },
-    {
-      "name": "TypeScript",
-      "level": 85,
-      "category": "frontend"
-    },
-    {
-      "name": "Node.js",
-      "level": 90,
-      "category": "backend"
-    },
-    {
-      "name": "Python",
-      "level": 90,
-      "category": "backend"
-    },
-    {
-      "name": "Java",
-      "level": 75,
-      "category": "backend"
-    },
-    {
-      "name": "C# (.NET)",
-      "level": 75,
-      "category": "backend"
-    },
-    {
-      "name": "MySQL",
-      "level": 100,
-      "category": "database"
-    },
-    {
-      "name": "PostgreSQL",
-      "level": 100,
-      "category": "database"
-    },
-    {
-      "name": "MongoDB",
+      "name": "Clinical Diagnosis & Procedures",
       "level": 95,
-      "category": "database"
+      "category": "clinical"
     },
     {
-      "name": "DynamoDB",
-      "level": 90,
-      "category": "database"
-    },
-    {
-      "name": "AWS",
+      "name": "Patient Communication & Counseling",
       "level": 95,
-      "category": "cloud"
+      "category": "clinical"
     },
     {
-      "name": "Terraform",
-      "level": 85,
-      "category": "devops"
-    },
-    {
-      "name": "Kubernetes",
+      "name": "Oral Health Education",
       "level": 90,
-      "category": "devops"
+      "category": "clinical"
     },
     {
-      "name": "Docker",
+      "name": "Creative Writing & Storytelling",
+      "level": 98,
+      "category": "writing"
+    },
+    {
+      "name": "Medical & Scientific Documentation",
+      "level": 92,
+      "category": "writing"
+    },
+    {
+      "name": "Research & Data Presentation",
       "level": 90,
-      "category": "devops"
+      "category": "research"
     },
     {
-      "name": "CI/CD",
-      "level": 90,
-      "category": "devops"
+      "name": "Time Management & Multitasking",
+      "level": 93,
+      "category": "soft skills"
     },
     {
-      "name": "Cloud Native",
-      "level": 90,
-      "category": "cloud"
-    },
-    {
-      "name": "Configuration Management",
-      "level": 85,
-      "category": "devops"
-    },
-    {
-      "name": "Cloud Security",
-      "level": 90,
-      "category": "security"
-    },
-    {
-      "name": "Network Security",
-      "level": 90,
-      "category": "security"
-    },
-    {
-      "name": "Communication Skills",
+      "name": "Teamwork & Collaboration",
       "level": 95,
+      "category": "soft skills"
+    },
+    {
+      "name": "Grammar & Editing",
+      "level": 96,
+      "category": "writing"
+    },
+    {
+      "name": "Digital Tools (MS Word, Canva, Zoom)",
+      "level": 88,
+      "category": "tools"
+    },
+    {
+      "name": "Adaptability in Voice & Tone",
+      "level": 94,
+      "category": "writing"
+    },
+    {
+      "name": "Client Empathy",
+      "level": 97,
       "category": "soft skills"
     }
   ]
